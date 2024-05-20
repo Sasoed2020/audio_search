@@ -88,14 +88,5 @@ We welcome contributions from the community. To contribute, please follow these 
 
 Please ensure your code adheres to our coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or support, please open an issue in the repository or contact the project maintainers.
-
----
 
 Thank you for using Audio Search! We hope you find it useful and look forward to your feedback.
